@@ -99,6 +99,8 @@ module.exports = function(grunt) {
 					base: root,
 					livereload: true,
 					open: true
+					//base: '.',
+					//hostname: '0.0.0.0'
 				}
 			},
 
