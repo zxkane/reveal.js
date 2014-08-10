@@ -109,7 +109,8 @@ Note:Repo is a repository management tool that we built on top of Git. Repo unif
 
 
 #Other stuffs
-###Backup
+###Personal backup
+###JGit(Git Java wrapper) that is the fundamental of Gerrit, EGit and Jenkins's Git plug-in
 ###...
 ###Any cool thing inspired by Git?
 
