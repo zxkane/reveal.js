@@ -30,6 +30,7 @@ GitHub.com is a start-up business, which in its first years provided enough reve
 ##Github demo
 * Social coding
 * Collaboration
+* [Gist](https://gist.github.com/)
 * Web service integration
 * Web hosting -- [Github Pages](https://pages.github.com/)
 
