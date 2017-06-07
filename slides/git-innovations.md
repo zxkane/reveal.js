@@ -1,7 +1,7 @@
-##How Git inspires the innovation
+## How Git inspires the innovation
 
 
-##Social coding
+## Social coding
 
 
 ![site logo](https://openframework.stanford.edu/sites/default/files/githuboctocat.jpeg)
@@ -27,7 +27,7 @@ GitHub has become such a staple among the open-source development community that
 GitHub.com is a start-up business, which in its first years provided enough revenue to be funded solely by its three founders and start taking on employees.[24] In July 2012, four years after the company was founded, Andreessen Horowitz invested $100M in venture capital.[3]
 
 
-##Github demo
+## Github demo
 * Social coding
 * Collaboration
 * [Gist](https://gist.github.com/)
@@ -35,8 +35,8 @@ GitHub.com is a start-up business, which in its first years provided enough reve
 * Web hosting -- [Github Pages](https://pages.github.com/)
 
 
-#![bitbucket site logo](http://upload.wikimedia.org/wikipedia/en/f/fc/Bitbucket_Logo.png)
-##Integrate with other Atlassian apps
+# ![bitbucket site logo](https://upload.wikimedia.org/wikipedia/en/thumb/d/df/BitBucket_SVG_Logo.svg/500px-BitBucket_SVG_Logo.svg.png)
+## Integrate with other Atlassian apps
 * JIRA
 * Confluence
 * Stash
@@ -44,33 +44,33 @@ GitHub.com is a start-up business, which in its first years provided enough reve
 * Crucible
 
 
-##![gerrit logo](http://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Gerrit_icon.svg/78px-Gerrit_icon.svg.png)
-##Gerrit code review
-###Developed at Google for Android project
+## ![gerrit logo](http://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Gerrit_icon.svg/78px-Gerrit_icon.svg.png)
+## Gerrit code review
+### Developed at Google for Android project
 Note:It was developed at Google by Shawn Pearce (founder of JGit) for the development of the Android project.Originally written in Python like Rietveld, it is now written in Java (Java EE Servlet) with SQL since version 2. Gerrit uses Google Web Toolkit to generate front-end JavaScript code from Java source.
 
 
-##Repo
-###Repo is a tool that makes it easier to work with Git in the context of Android. 
+## Repo
+### Repo is a tool that makes it easier to work with Git in the context of Android. 
 Note:Repo is a repository management tool that we built on top of Git. Repo unifies the many Git repositories when necessary, does the uploads to our revision control system, and automates parts of the Android development workflow. Repo is not meant to replace Git, only to make it easier to work with Git in the context of Android. The repo command is an executable Python script that you can put anywhere in your path. In working with the Android source files, you will use Repo for across-network operations. For example, with a single Repo command you can download files from multiple repositories into your local working directory.
 
 
-##Content management
+## Content management
 
 
-##Blog
-###[JekyII](http://jekyllrb.com/) 
+## Blog
+### [JekyII](http://jekyllrb.com/) 
 [阮一峰的Github/JekyII中文教程](http://www.ruanyifeng.com/blog/2012/08/blogging_with_jekyll.html)
-###[Ghost](https://github.com/tryghost/Ghost)
+### [Ghost](https://github.com/tryghost/Ghost)
 
 
-##Book writing
-###[Pro Git](http://git-scm.com/book/)
-###[GotGitHub](https://github.com/gotgit/gotgithub)
+## Book writing
+### [Pro Git](http://git-scm.com/book/)
+### [GotGitHub](https://github.com/gotgit/gotgithub)
 
 
-##Other stuffs
-###Personal backup
-###JGit(Git Java wrapper) that is the fundamental of Gerrit, EGit and Jenkins's Git plug-in
-###...
-###Any cool thing inspired by Git?
+## Other stuffs
+### Personal backup
+### JGit(Git Java wrapper) that is the fundamental of Gerrit, EGit and Jenkins's Git plug-in
+### ...
+### Any cool thing inspired by Git?

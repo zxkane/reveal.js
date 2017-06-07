@@ -1,4 +1,4 @@
-#History
+# History
 
 ### Git was initially designed and developed by Linus Torvalds for Linux kernel development in 2005
 

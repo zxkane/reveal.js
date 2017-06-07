@@ -1,4 +1,4 @@
-##Further reading
+## Further reading
 ### Open source books
 * [Pro Git](http://git-scm.com/book/)
 * [Git Internals](https://github.com/pluralsight/git-internals-pdf)
