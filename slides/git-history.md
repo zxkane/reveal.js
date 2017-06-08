@@ -2,7 +2,7 @@
 
 ### Git was initially designed and developed by Linus Torvalds for Linux kernel development in 2005
 
-### Latest stable release 2.0.4 (30 July 2014)
+### Latest stable release 2.13.1 (June 2017)
 
 Note:Git development began after many developers of the Linux kernel gave up access to BitKeeper, a proprietary SCM system that had previously been used to maintain the project.[8] The copyright holder of BitKeeper, Larry McVoy, had withdrawn free use of the product after claiming that Andrew Tridgell had reverse-engineered the BitKeeper protocols.
 Torvalds wanted a distributed system that he could use like BitKeeper, but none of the available free systems met his needs, particularly in terms of performance. Torvalds took an example of an SCM system requiring thirty seconds to apply a patch and update all associated metadata, and noted that this would not scale to the needs of Linux kernel development, where syncing with fellow maintainers could require 250 such actions at a time. He wanted patching to take three seconds,[4] and had several other design criteria in mind:

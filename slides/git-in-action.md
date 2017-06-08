@@ -1,5 +1,5 @@
 ## Git in action
-![logo](http://rlv.zcache.com/id_fork_that_black_tshirts-r621f1b1216034a3eb8b9eb060cbb6ded_8nax2_512.jpg)
+![logo](https://image.slidesharecdn.com/gitinaction-121204153923-phpapp01/95/git-in-action-1-638.jpg?cb=1354635663)
 
 
 ## Git remote commands

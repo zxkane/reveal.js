@@ -10,6 +10,6 @@
 
 
 ## Git as Development tool
-![Dev tool landscape for 2014](http://zeroturnaround.com/wp-content/uploads/2014/05/2014-leaderboard-of-java-tools-and-technologies-640x453.jpg)
+![Dev tool landscape for 2016](https://zeroturnaround.com/wp-content/uploads/2016/07/git-has-won.png)
 
-[more read](http://zeroturnaround.com/rebellabs/java-tools-and-technologies-landscape-for-2014/)
+[comprehensive read](https://zeroturnaround.com/rebellabs/java-tools-and-technologies-landscape-2016/)
